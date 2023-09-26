@@ -15,7 +15,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@pinia/nuxt": "^0.4.11",
     "cookies-ts": "^1.0.5",
-    "core-js": "^3.32.0",
+    "core-js": "^3.32.1",
     "cross-env": "^7.0.3",
     "nuxt": "^2.15.8",
     "pinia": "^2.1.6",
